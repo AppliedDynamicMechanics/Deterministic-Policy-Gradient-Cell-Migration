@@ -17,7 +17,7 @@ This project provides framework to train an agent for cell interactions:
 
 To train this model, run the following command:
 ```
-    python Moving_Source_DDPG_local.py
+ python Moving_Source_DDPG_local.py
 ```
 
 ## Test
