@@ -17,13 +17,13 @@ This project provides framework to train an agent for cell interactions:
 
 To train this model, run the following command:
 ```
- python Moving_Source_DDPG_local.py
+python Moving_Source_DDPG_local.py
 ```
 
 ## Test
 A built-in testing script can be used to assess generalization capabilities, illustrating the optimal policy learned by an agent during training. A pre-trained policy has been included in the model folder, which can be tested for reference. To run the testing framework, you can use the following command:
 
-    python Moving_Source_DDPG_test.py
+ python Moving_Source_DDPG_test.py
 
 ## Configure
 This code was developed with many customizable parameters to facilitate its application to different evacuation environments. You can modify the following parameters in the source code to appropriately configure your training:
